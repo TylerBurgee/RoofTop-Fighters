@@ -1,3 +1,9 @@
+"""
+Name: RoofTop Fighters
+Author: Joey Burgee
+Date: March 9, 2018
+"""
+
 # IMPORT MODULES
 import pygame as pg
 
